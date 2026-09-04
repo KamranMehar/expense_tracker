@@ -42,5 +42,5 @@ A pixel-perfect, modern mobile application home screen built with **Flutter**. T
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/expense_tracker.git](https://github.com/your-username/expense_tracker.git)
+   git clone [https://github.com/KamranMehar/expense_tracker.git])
    cd expense_tracker
